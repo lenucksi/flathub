@@ -1,0 +1,19 @@
+io.github.lenucksi.SieveEditor.yml
+  s_3f438e99c0571f::t_cc913d7a2fddf9 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b6cb6bb8bfecc6d53c6deeb97cc374a66fa582ea",
+  "prompts": {},
+  "sessions": {
+    "s_3f438e99c0571f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13a36e166ffewCQ6IWUv02fRwC",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Lenucksi <lenucksi@users.noreply.github.com>"
+    }
+  }
+}
